@@ -1,2 +1,2 @@
-# yelp_dataset_challenge
-my second project
+# Yelp Dataset Challenge 2014
+Galvanize Data Science Immersion Project Fall 2015
